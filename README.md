@@ -6,4 +6,4 @@ Step 1 . Install the Libararies to RUn the Project (express,body-parser,ejs,mong
 Step 2 . Install by Using npm i package_name(the above packages)
 Step 3 . TO run the Project 
 You can run the Project by entering the Command in the Terminal 
-nodemon index.js
+nodemon index.js.
